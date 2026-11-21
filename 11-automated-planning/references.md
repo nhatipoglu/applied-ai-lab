@@ -1,1 +1,0 @@
-# Automated Planning — References
